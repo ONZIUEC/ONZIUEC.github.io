@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profiles on ONZIの秘密基地</title>
+    <link>https://onziuec.github.io/en/profile/</link>
+    <description>Recent content in Profiles on ONZIの秘密基地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://onziuec.github.io/en/profile/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
